@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SW.API/SW.API.csproj" />
+  <Project Path="SW.ENTITY/SW.ENTITY.csproj" />
+  <Project Path="SW.MANAGER/SW.MANAGER.csproj" />
+  <Project Path="SW.REPOSITORY/SW.REPOSITORY.csproj" />
+</Solution>
